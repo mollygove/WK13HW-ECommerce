@@ -1,28 +1,28 @@
 {
-    "name": "WK13HW-ECommerce",
-    "version": "1.0.0",
-    "description": "",
-    "main": "server.js",
-    "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1",
-      "start": "node server.js",
-      "seed": "node seeds/index.js"
-    },
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/mollygove/WK13HW-ECommerce.git"
-    },
-    "keywords": [],
-    "author": "",
-    "license": "ISC",
-    "bugs": {
-      "url": "https://github.com/mollygove/WK13HW-ECommerce/issues"
-    },
-    "homepage": "https://github.com/mollygove/WK13HW-ECommerce#readme",
-    "dependencies": {
-      "dotenv": "^16.0.0",
-      "express": "^4.17.3",
-      "mysql2": "^2.3.3",
-      "sequelize": "^6.17.0"
-    }
+  "name": "WK13HW-ECommerce",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "seed": "node seeds/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mollygove/WK13HW-ECommerce.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mollygove/WK13HW-ECommerce/issues"
+  },
+  "homepage": "https://github.com/mollygove/WK13HW-ECommerce#readme",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.20.1"
   }
+}

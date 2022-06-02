@@ -8,7 +8,7 @@ const productData = [
     category_id: 1,
   },
   {
-    product_name: 'Running Sneakers',
+    product_name: 'Jogging Sneakers',
     price: 90.0,
     stock: 25,
     category_id: 5,
@@ -26,7 +26,7 @@ const productData = [
     category_id: 3,
   },
   {
-    product_name: 'Cargo Shorts',
+    product_name: 'Swim Trunks',
     price: 29.99,
     stock: 22,
     category_id: 2,
